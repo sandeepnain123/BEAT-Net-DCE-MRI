@@ -1,0 +1,2144 @@
+{
+  "DUKE_019": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_021": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_028": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_044": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_046": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_055": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_057": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_060": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_069": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_086": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_099": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_101": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_116": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_120": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_134": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_136": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_157": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_163": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_167": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_189": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_205": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_234": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_237": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_244": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_253": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_271": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_283": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_285": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_287": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_303": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_307": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_317": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_323": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_346": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_353": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_377": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_383": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_385": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_397": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_398": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_408": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_414": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_420": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_424": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_428": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_431": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_438": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_457": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_470": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_480": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_482": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_508": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_514": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_525": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_539": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_541": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_559": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_560": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_562": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_567": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_568": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_573": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_585": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_592": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_605": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_609": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_614": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_615": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_640": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_642": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_651": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_663": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_670": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_687": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_691": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_718": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_754": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_757": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_775": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_780": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_789": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_799": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_817": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_832": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_836": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_839": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "DUKE_847": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_869": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_882": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_883": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "DUKE_915": {
+    "centre": "DUKE",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1005": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1007": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1017": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1027": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY1_1036": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1040": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1042": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1051": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1053": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY1_1072": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1074": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1082": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1084": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1087": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1089": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY1_1090": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1094": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1097": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1101": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1103": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1114": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1139": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1140": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1141": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY1_1145": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1148": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY1_1149": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1150": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1151": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1156": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1159": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1160": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1161": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1164": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1167": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1169": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1173": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY1_1175": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1176": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1179": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1180": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY1_1181": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1183": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1187": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1191": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY1_1193": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1194": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1199": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1201": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY1_1202": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1203": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY1_1208": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1210": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1215": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY1_1218": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1219": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1221": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1222": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1224": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1225": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1227": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1230": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1231": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1233": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1235": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY1_1236": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY1_1238": {
+    "centre": "ISPY1",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_105513": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_108939": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY2_108969": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_109874": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_109980": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_111004": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_111674": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY2_112606": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_115638": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_117424": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_120422": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_123660": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_129973": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY2_132463": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_139771": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_141782": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_144302": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_145777": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_151230": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_151980": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_152197": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_157270": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_159352": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_166782": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_169536": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_172168": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_180027": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_182346": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_188091": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_197942": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_201831": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_202535": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_208265": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY2_212307": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_213328": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_220664": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY2_222135": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_229824": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_236470": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_237158": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_241705": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_253531": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_255388": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_259899": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_262131": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_264305": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_266509": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_275034": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_282644": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_283070": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_301289": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY2_301968": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_307659": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_313672": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_317641": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_318293": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_318438": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_326433": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_327142": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_332655": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_345460": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_353318": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_356399": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_362150": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_374106": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_375342": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_409288": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_418593": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_427321": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_435313": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_443708": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_453596": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_467622": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_495440": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_501303": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY2_516763": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_520471": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_527581": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_531988": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY2_532183": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_539904": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_550421": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_564701": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_573919": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_579881": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_597253": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_597873": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_598835": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_622078": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_624777": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_628788": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_631337": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_638126": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_639663": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY2_641246": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY2_654021": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY2_664111": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_666450": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_685795": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_689452": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_725455": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_726940": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_727255": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_736721": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_745633": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_783578": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_783771": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_791321": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_793155": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_801641": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_814299": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_828199": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_830486": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_846156": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_859699": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_863161": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_870077": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_872188": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY2_877463": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_887594": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_894673": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_896621": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_916586": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_930172": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_960490": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_962472": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "ISPY2_973837": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_981461": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_981664": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_986734": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "ISPY2_991818": {
+    "centre": "ISPY2",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "NACT_02": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "NACT_08": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "NACT_09": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "NACT_13": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "NACT_17": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 1
+  },
+  "NACT_18": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "NACT_27": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "NACT_28": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "NACT_29": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "NACT_32": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "NACT_39": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "NACT_41": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "NACT_44": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "NACT_55": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "NACT_57": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 1,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 1
+  },
+  "NACT_60": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 1,
+    "APCPS_P98_phase": 2,
+    "whole_breast_mean_phase": 2
+  },
+  "NACT_67": {
+    "centre": "NACT",
+    "APCPS_P95_phase": 2,
+    "APCPS_P90_phase": 2,
+    "APCPS_P98_phase": 1,
+    "whole_breast_mean_phase": 2
+  }
+}
