@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data formats (Medical Imaging & Arrays)
+*.nii
+*.nii.gz
+*.npy
+*.npz
+*.mhd
+*.raw
+*.dcm
+
+# Model Checkpoints & Weights
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+*.engine
+
+# Archives and Compressed Files
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.rar
+*.7z
+
+# Output and runtime directories
+logs/
+results/
+outputs/
+test_preds/
+wandb/
+runs/
+
+# Environment and local IDE configs
+.env
+.venv/
+env/
+venv/
+ENV/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+/dev/shm/*

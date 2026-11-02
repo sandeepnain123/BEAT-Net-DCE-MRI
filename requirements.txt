@@ -1,0 +1,25 @@
+# Core Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Medical Image Computing & Segmentation
+monai>=1.3.0
+nibabel>=5.0.0
+SimpleITK>=2.3.0
+scikit-image>=0.21.0
+
+# Baseline Benchmarking (nnU-Net v2)
+nnunetv2>=2.2.0
+dynamic_network_architectures>=0.4.0
+batchgenerators>=0.25.0
+
+# Scientific Computing & Data Processing
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Utilities
+einops>=0.7.0
+tqdm>=4.65.0
+pyyaml>=6.0

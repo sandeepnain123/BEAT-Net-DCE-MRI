@@ -1,0 +1,62 @@
+{
+  "created_utc": "2026-10-27T19:17:37Z",
+  "stage": "FROZEN_BEFORE_PREFLIGHT_AND_INFERENCE",
+  "files": {
+    "attention_isolated_model.py": "7639928bc3352f278703296a89556880f162d211c4ae90d31bc6f4ddf6f6052e",
+    "cluster_policy.md": "d0e70af221ca225ef1cd39d99fea027a1c4baa00e6b7b745e54cad441f2c1dc2",
+    "config.json": "e92e1160defd866d0fc9913b34d456c4a0ab727a9ba69e000be86f82aa8e0fc0",
+    "evaluate.py": "e178481c0d4893d547c4cc808135281ee25640e672becb867d1acce46211720d",
+    "evaluate.sbatch": "2d000e886cc64a47a49ce64718f0d9b675e876755e6d65304303aa7ffd1409f8",
+    "freeze_and_stage.py": "2152e288994a8f8dd37e5452395a520cf7b3784fa7144e9039402feb16049f41",
+    "official_split_snapshot.csv": "266990a8f1552d2976179078435d0167696c7a38c21ff6b26ecb9ac9ed5d57ca",
+    "official_test_ids.json": "20ec1144883f057ead272da861ba8ebe8f8e1844c306d4b506cefc64e36b945b",
+    "original_preprocessing_snapshot.py.txt": "f2741dd0fc5872e3e5451a9b9b58c9528afe6e7deb8112b914552b3b891d8c38",
+    "original_trainer_snapshot.py.txt": "c33400697706380d471e79e4d61ab392fd0fa4a3d08e44365cc88dd385fe51e1",
+    "preflight.sbatch": "cd862e7f6934e9fde061df218e33ede8c255728aa95a303b9ed6e35f0ebd376c",
+    "reused_components.py": "f4c45293136b1b0a6be73e83be747bd63912a375844bc9cff2a539b1e92eadd8",
+    "reused_preprocessing.py": "c2bd5ce0459b8f4baaffc9f460910f8c48540a4681d282e688f57ef0a37b9c28",
+    "scheduler_status.sh": "e56644267ce1275f58654b493c9793e75700dcc2fde4dcea38f53efa432530aa",
+    "submit_preflight.sh": "bf99e5af03656a9895dade5d03650517480ba995fbe6b0534c7e04d273314929",
+    "summarise.py": "ef6497ddf2ad3b45788f868f87f7c1af8bcfe0abc86dc930faa2fff85da9ab8f",
+    "workspace_rules.md": "5d9a18376b5b0c30325b536b8691c184e5cf1fdb82f4a85e7be84a735b2fb8a9",
+    "diagnose_preprocessing.py": "1f513b3b56e4b90c1dc348cd7ed84c9c42e10e0302e4131d7c7a5c7687886fb8",
+    "original_preprocess_test.sbatch.txt": "e071752ef5df492e761824661bf37b702f7faf22bdc1bf4ef11da9ea891a24db",
+    "outputs/preprocessing_diagnostic.json": "0adc76cdb257c5725839fd39b887f2b9fa9dcf50d6ed9f2e1672e5c5683dc6ec"
+  },
+  "checkpoints": {
+    "random_init_seed0": {
+      "path": "./results/ablation_section3/random_init_seed0/final_model.pt",
+      "sha256": "563650dc151f3324d46b0e5d93b4d7af0f78c7e869cb0569c66ddc2088f2fd3c",
+      "bytes": 436885859,
+      "mtime": 1792763955,
+      "stable_during_read": true
+    },
+    "random_init_seed1": {
+      "path": "./results/ablation_section3/random_init_seed1/final_model.pt",
+      "sha256": "ef206cb963435fc316ff925f7d0cae78f608e6ddb780d2e9c74b7426b718f325",
+      "bytes": 436885859,
+      "mtime": 1792763684,
+      "stable_during_read": true
+    },
+    "reference_seed0": {
+      "path": "./results/ablation_section3/reference_seed0/final_model.pt",
+      "sha256": "b02a9625bc368cd333975dca8a060c62c0c81e02ae7aea575c1869d96aa00874",
+      "bytes": 436885859,
+      "mtime": 1792739753,
+      "stable_during_read": true
+    },
+    "reference_seed1": {
+      "path": "./results/ablation_section3/reference_seed1/final_model.pt",
+      "sha256": "0f788364cdcd1695840f8f8f934bbb3500621d02dce9e27f1948c32e5f70659b",
+      "bytes": 436885859,
+      "mtime": 1792740882,
+      "stable_during_read": true
+    }
+  },
+  "official_split_sha256": "266990a8f1552d2976179078435d0167696c7a38c21ff6b26ecb9ac9ed5d57ca",
+  "historical_training_membership": "UNKNOWN",
+  "no_test_driven_tuning": true,
+  "training_authorised": false,
+  "previous_freeze_sha256": "592be48faa68f43c3c4b3d57dbd4ea6189eec5ccab7a3995151c1ca61a16fa17",
+  "amendment": "Preflight 174028 failed overly strict float16 intensity equality; diagnostic 174033 justified precision-aware cache validation. No test scores or inference occurred. Labels remain exact and evaluation settings unchanged."
+}

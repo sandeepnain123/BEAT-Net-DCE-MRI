@@ -1,0 +1,388 @@
+case_id,series_number,series_description,frame_id,acquisition_time,content_time,trigger_time,image_type,slices,spacing,is_candidate_post_contrast,candidate_order,flags
+AMBL-001,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-001,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6641, 0.6641, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-001,7,AX Sen Vibrant +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-001,10,AX Sen Vibrant +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-001,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,13:58:57.000000,N/A,372977,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-001,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,13:58:57.000000,N/A,372977,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-001,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,13:58:57.000000,N/A,372977,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-001,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,13:58:57.000000,N/A,372977,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-001,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,13:58:57.000000,N/A,372977,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-001,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,13:58:57.000000,N/A,372977,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-001,700,Registered AX Sen Vibrant +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-001,1000,Registered AX Sen Vibrant +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-001,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-003,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,112,"[0.6641, 0.6641, 1.9998]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-003,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,560,"[0.6641, 0.6641, 1.9998]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-003,7,AX Sen Vibrant +C,N/A,N/A,N/A,N/A,ORIGINAL,112,"[0.6641, 0.6641, 1.9998]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-003,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,15:52:44.000000,N/A,372611,ORIGINAL\PRIMARY\OTHER,112,"[0.6641, 0.6641, 1.9998]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-003,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,15:52:44.000000,N/A,372611,ORIGINAL\PRIMARY\OTHER,112,"[0.6641, 0.6641, 1.9998]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-003,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,15:52:44.000000,N/A,372611,ORIGINAL\PRIMARY\OTHER,112,"[0.6641, 0.6641, 1.9998]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-003,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,15:52:44.000000,N/A,372611,ORIGINAL\PRIMARY\OTHER,112,"[0.6641, 0.6641, 1.9998]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-003,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,15:52:44.000000,N/A,372611,ORIGINAL\PRIMARY\OTHER,112,"[0.6641, 0.6641, 1.9998]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-003,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,15:52:44.000000,N/A,372611,ORIGINAL\PRIMARY\OTHER,112,"[0.6641, 0.6641, 1.9998]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-003,700,Registered AX Sen Vibrant +C,N/A,N/A,N/A,N/A,DERIVED,112,"[0.6641, 0.6641, 1.9998]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-003,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,112,"[0.6641, 0.6641, 1.9998]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-004,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-004,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6641, 0.6641, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-004,10,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-004,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,17:44:57.000000,N/A,372691,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-004,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,17:44:57.000000,N/A,372691,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-004,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,17:44:57.000000,N/A,372691,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-004,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,17:44:57.000000,N/A,372691,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-004,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,17:44:57.000000,N/A,372691,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-004,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,17:44:57.000000,N/A,372691,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-004,1000,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-004,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-005,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-005,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6641, 0.6641, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-005,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-005,10,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-005,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,20:55:8.000000,N/A,373059,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-005,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,20:55:8.000000,N/A,373059,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-005,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,20:55:8.000000,N/A,373059,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-005,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,20:55:8.000000,N/A,373059,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-005,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,20:55:8.000000,N/A,373059,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-005,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,20:55:8.000000,N/A,373059,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-005,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-005,1000,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-005,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-007,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7031, 0.7031, 2.1]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-007,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.7031, 0.7031, 2.1]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-007,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7031, 0.7031, 2.1]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-007,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,15:48:35.000000,N/A,368285,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.1]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-007,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,15:48:35.000000,N/A,368285,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.1]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-007,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,15:48:35.000000,N/A,368285,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.1]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-007,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,15:48:35.000000,N/A,368285,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.1]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-007,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,15:48:35.000000,N/A,368285,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.1]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-007,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,15:48:35.000000,N/A,368285,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.1]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-007,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7031, 0.7031, 2.1]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-007,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7031, 0.7031, 2.1]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-008,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6836, 0.6836, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-008,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6836, 0.6836, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-008,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6836, 0.6836, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-008,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,17:06:14.000000,N/A,370552,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-008,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,17:06:14.000000,N/A,370552,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-008,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,17:06:14.000000,N/A,370552,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-008,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,17:06:14.000000,N/A,370552,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-008,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,17:06:14.000000,N/A,370552,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-008,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,17:06:14.000000,N/A,370552,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-008,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6836, 0.6836, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-008,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6836, 0.6836, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-009,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6445, 0.6445, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-009,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6445, 0.6445, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-009,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6445, 0.6445, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-009,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,18:58:2.000000,N/A,374642,ORIGINAL\PRIMARY\OTHER,116,"[0.6445, 0.6445, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-009,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,18:58:2.000000,N/A,374642,ORIGINAL\PRIMARY\OTHER,116,"[0.6445, 0.6445, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-009,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,18:58:2.000000,N/A,374642,ORIGINAL\PRIMARY\OTHER,116,"[0.6445, 0.6445, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-009,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,18:58:2.000000,N/A,374642,ORIGINAL\PRIMARY\OTHER,116,"[0.6445, 0.6445, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-009,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,18:58:2.000000,N/A,374642,ORIGINAL\PRIMARY\OTHER,116,"[0.6445, 0.6445, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-009,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,18:58:2.000000,N/A,374642,ORIGINAL\PRIMARY\OTHER,116,"[0.6445, 0.6445, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-009,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6445, 0.6445, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-009,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6445, 0.6445, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-010,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.625, 0.625, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-010,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.625, 0.625, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-010,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.625, 0.625, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-010,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,20:21:2.000000,N/A,376443,ORIGINAL\PRIMARY\OTHER,116,"[0.625, 0.625, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-010,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,20:21:2.000000,N/A,376443,ORIGINAL\PRIMARY\OTHER,116,"[0.625, 0.625, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-010,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,20:21:2.000000,N/A,376443,ORIGINAL\PRIMARY\OTHER,116,"[0.625, 0.625, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-010,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,20:21:2.000000,N/A,376443,ORIGINAL\PRIMARY\OTHER,116,"[0.625, 0.625, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-010,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,20:21:2.000000,N/A,376443,ORIGINAL\PRIMARY\OTHER,116,"[0.625, 0.625, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-010,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,20:21:2.000000,N/A,376443,ORIGINAL\PRIMARY\OTHER,116,"[0.625, 0.625, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-010,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.625, 0.625, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-010,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.625, 0.625, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-011,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6836, 0.6836, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-011,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6836, 0.6836, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-011,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6836, 0.6836, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-011,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,20:59:35.000000,N/A,371204,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-011,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,20:59:35.000000,N/A,371204,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-011,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,20:59:35.000000,N/A,371204,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-011,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,20:59:35.000000,N/A,371204,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-011,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,20:59:35.000000,N/A,371204,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-011,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,20:59:35.000000,N/A,371204,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-011,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6836, 0.6836, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-011,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6836, 0.6836, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-013,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-013,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6641, 0.6641, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-013,9,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-013,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,09:28:20.000000,N/A,372638,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-013,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,09:28:20.000000,N/A,372638,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-013,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,09:28:20.000000,N/A,372638,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-013,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,09:28:20.000000,N/A,372638,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-013,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,09:28:20.000000,N/A,372638,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-013,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,09:28:20.000000,N/A,372638,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-013,900,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-013,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-016,4,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7031, 0.7031, 2.1]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-016,6,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.7031, 0.7031, 2.1]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-016,8,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7031, 0.7031, 2.1]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-016,12,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7031, 0.7031, 2.1]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-016,600,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,10:12:10.000000,N/A,368213,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.1]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-016,600,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,10:12:10.000000,N/A,368213,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.1]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-016,600,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,10:12:10.000000,N/A,368213,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.1]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-016,600,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,10:12:10.000000,N/A,368213,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.1]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-016,600,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,10:12:10.000000,N/A,368213,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.1]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-016,600,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,10:12:10.000000,N/A,368213,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.1]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-016,800,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7031, 0.7031, 2.1]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-016,1200,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7031, 0.7031, 2.1]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-016,6000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7031, 0.7031, 2.1]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-018,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6445, 0.6445, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-018,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6445, 0.6445, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-018,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6445, 0.6445, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-018,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,10:03:31.000000,N/A,374873,ORIGINAL\PRIMARY\OTHER,116,"[0.6445, 0.6445, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-018,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,10:03:31.000000,N/A,374873,ORIGINAL\PRIMARY\OTHER,116,"[0.6445, 0.6445, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-018,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,10:03:31.000000,N/A,374873,ORIGINAL\PRIMARY\OTHER,116,"[0.6445, 0.6445, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-018,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,10:03:31.000000,N/A,374873,ORIGINAL\PRIMARY\OTHER,116,"[0.6445, 0.6445, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-018,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,10:03:31.000000,N/A,374873,ORIGINAL\PRIMARY\OTHER,116,"[0.6445, 0.6445, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-018,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,10:03:31.000000,N/A,374873,ORIGINAL\PRIMARY\OTHER,116,"[0.6445, 0.6445, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-018,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6445, 0.6445, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-018,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6445, 0.6445, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-022,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-022,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6641, 0.6641, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-022,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-022,11,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-022,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,20:03:16.000000,N/A,372887,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-022,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,20:03:16.000000,N/A,372887,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-022,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,20:03:16.000000,N/A,372887,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-022,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,20:03:16.000000,N/A,372887,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-022,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,20:03:16.000000,N/A,372887,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-022,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,20:03:16.000000,N/A,372887,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-022,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-022,1100,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-022,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-023,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6836, 0.6836, 2.1]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-023,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6836, 0.6836, 2.1]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-023,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6836, 0.6836, 2.1]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-023,10,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6836, 0.6836, 2.1]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-023,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,09:12:28.000000,N/A,370296,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.1]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-023,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,09:12:28.000000,N/A,370296,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.1]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-023,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,09:12:28.000000,N/A,370296,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.1]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-023,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,09:12:28.000000,N/A,370296,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.1]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-023,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,09:12:28.000000,N/A,370296,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.1]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-023,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,09:12:28.000000,N/A,370296,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.1]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-023,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6836, 0.6836, 2.1]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-023,1000,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6836, 0.6836, 2.1]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-023,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6836, 0.6836, 2.1]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-024,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6055, 0.6055, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-024,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6055, 0.6055, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-024,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6055, 0.6055, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-024,10,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6055, 0.6055, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-024,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,13:51:1.000000,N/A,388044,ORIGINAL\PRIMARY\OTHER,116,"[0.6055, 0.6055, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-024,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,13:51:1.000000,N/A,388044,ORIGINAL\PRIMARY\OTHER,116,"[0.6055, 0.6055, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-024,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,13:51:1.000000,N/A,388044,ORIGINAL\PRIMARY\OTHER,116,"[0.6055, 0.6055, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-024,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,13:51:1.000000,N/A,388044,ORIGINAL\PRIMARY\OTHER,116,"[0.6055, 0.6055, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-024,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,13:51:1.000000,N/A,388044,ORIGINAL\PRIMARY\OTHER,116,"[0.6055, 0.6055, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-024,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,13:51:1.000000,N/A,388044,ORIGINAL\PRIMARY\OTHER,116,"[0.6055, 0.6055, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-024,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6055, 0.6055, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-024,1000,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6055, 0.6055, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-024,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6055, 0.6055, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-025,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-025,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6641, 0.6641, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-025,9,AX Sen Vibrant +C+F,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-025,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,11:27:30.000000,N/A,372698,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-025,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,11:27:30.000000,N/A,372698,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-025,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,11:27:30.000000,N/A,372698,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-025,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,11:27:30.000000,N/A,372698,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-025,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,11:27:30.000000,N/A,372698,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-025,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,11:27:30.000000,N/A,372698,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-025,900,Registered AX Sen Vibrant +C+F,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-025,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-026,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-026,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6641, 0.6641, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-026,9,AX Sen Vibrant MASK+F,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-026,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,15:32:12.000000,N/A,373066,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-026,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,15:32:12.000000,N/A,373066,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-026,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,15:32:12.000000,N/A,373066,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-026,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,15:32:12.000000,N/A,373066,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-026,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,15:32:12.000000,N/A,373066,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-026,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,15:32:12.000000,N/A,373066,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-026,900,Registered AX Sen Vibrant MASK+F,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-026,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-028,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7031, 0.7031, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-028,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.7031, 0.7031, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-028,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7031, 0.7031, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-028,11,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7031, 0.7031, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-028,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,19:04:25.000000,N/A,369297,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-028,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,19:04:25.000000,N/A,369297,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-028,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,19:04:25.000000,N/A,369297,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-028,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,19:04:25.000000,N/A,369297,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-028,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,19:04:25.000000,N/A,369297,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-028,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,19:04:25.000000,N/A,369297,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-028,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7031, 0.7031, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-028,1100,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7031, 0.7031, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-028,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7031, 0.7031, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-029,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-029,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.7422, 0.7422, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-029,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-029,11,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-029,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,11:40:44.000000,N/A,366475,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-029,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,11:40:44.000000,N/A,366475,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-029,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,11:40:44.000000,N/A,366475,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-029,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,11:40:44.000000,N/A,366475,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-029,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,11:40:44.000000,N/A,366475,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-029,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,11:40:44.000000,N/A,366475,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-029,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-029,1100,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-029,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-031,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-031,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6641, 0.6641, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-031,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-031,11,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-031,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,09:41:37.000000,N/A,372635,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-031,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,09:41:37.000000,N/A,372635,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-031,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,09:41:37.000000,N/A,372635,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-031,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,09:41:37.000000,N/A,372635,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-031,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,09:41:37.000000,N/A,372635,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-031,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,09:41:37.000000,N/A,372635,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-031,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-031,1100,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-031,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-032,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6836, 0.6836, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-032,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6836, 0.6836, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-032,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6836, 0.6836, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-032,11,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6836, 0.6836, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-032,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,11:48:7.000000,N/A,370495,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-032,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,11:48:7.000000,N/A,370495,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-032,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,11:48:7.000000,N/A,370495,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-032,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,11:48:7.000000,N/A,370495,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-032,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,11:48:7.000000,N/A,370495,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-032,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,11:48:7.000000,N/A,370495,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-032,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6836, 0.6836, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-032,1100,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6836, 0.6836, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-032,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6836, 0.6836, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-033,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-033,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.7422, 0.7422, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-033,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-033,11,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-033,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,14:55:10.000000,N/A,366729,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-033,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,14:55:10.000000,N/A,366729,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-033,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,14:55:10.000000,N/A,366729,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-033,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,14:55:10.000000,N/A,366729,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-033,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,14:55:10.000000,N/A,366729,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-033,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,14:55:10.000000,N/A,366729,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-033,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-033,1100,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-033,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-034,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6836, 0.6836, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-034,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6836, 0.6836, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-034,10,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6836, 0.6836, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-034,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,15:54:16.000000,N/A,370279,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-034,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,15:54:16.000000,N/A,370279,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-034,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,15:54:16.000000,N/A,370279,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-034,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,15:54:16.000000,N/A,370279,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-034,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,15:54:16.000000,N/A,370279,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-034,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,15:54:16.000000,N/A,370279,ORIGINAL\PRIMARY\OTHER,116,"[0.6836, 0.6836, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-034,1000,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6836, 0.6836, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-034,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6836, 0.6836, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-035,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-035,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6641, 0.6641, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-035,9,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-035,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,09:26:57.000000,N/A,372666,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-035,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,09:26:57.000000,N/A,372666,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-035,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,09:26:57.000000,N/A,372666,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-035,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,09:26:57.000000,N/A,372666,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-035,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,09:26:57.000000,N/A,372666,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-035,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,09:26:57.000000,N/A,372666,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-035,900,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-035,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-036,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-036,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.7422, 0.7422, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-036,7,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-036,10,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-036,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,11:51:47.000000,N/A,366253,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-036,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,11:51:47.000000,N/A,366253,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-036,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,11:51:47.000000,N/A,366253,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-036,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,11:51:47.000000,N/A,366253,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-036,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,11:51:47.000000,N/A,366253,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-036,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,11:51:47.000000,N/A,366253,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-036,700,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-036,1000,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-036,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-038,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-038,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.7422, 0.7422, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-038,10,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-038,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,18:19:42.000000,N/A,366451,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-038,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,18:19:42.000000,N/A,366451,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-038,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,18:19:42.000000,N/A,366451,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-038,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,18:19:42.000000,N/A,366451,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-038,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,18:19:42.000000,N/A,366451,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-038,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,18:19:42.000000,N/A,366451,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-038,1000,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-038,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-042,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7031, 0.7031, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-042,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.7031, 0.7031, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-042,9,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7031, 0.7031, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-042,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,11:07:16.000000,N/A,369926,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-042,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,11:07:16.000000,N/A,369926,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-042,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,11:07:16.000000,N/A,369926,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-042,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,11:07:16.000000,N/A,369926,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-042,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,11:07:16.000000,N/A,369926,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-042,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,11:07:16.000000,N/A,369926,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-042,900,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7031, 0.7031, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-042,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7031, 0.7031, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-043,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7617, 0.7617, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-043,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.7617, 0.7617, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-043,10,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7617, 0.7617, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-043,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,11:44:19.000000,N/A,364764,ORIGINAL\PRIMARY\OTHER,116,"[0.7617, 0.7617, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-043,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,11:44:19.000000,N/A,364764,ORIGINAL\PRIMARY\OTHER,116,"[0.7617, 0.7617, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-043,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,11:44:19.000000,N/A,364764,ORIGINAL\PRIMARY\OTHER,116,"[0.7617, 0.7617, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-043,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,11:44:19.000000,N/A,364764,ORIGINAL\PRIMARY\OTHER,116,"[0.7617, 0.7617, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-043,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,11:44:19.000000,N/A,364764,ORIGINAL\PRIMARY\OTHER,116,"[0.7617, 0.7617, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-043,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,11:44:19.000000,N/A,364764,ORIGINAL\PRIMARY\OTHER,116,"[0.7617, 0.7617, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-043,1000,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7617, 0.7617, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-043,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7617, 0.7617, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-044,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7031, 0.7031, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-044,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.7031, 0.7031, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-044,9,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7031, 0.7031, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-044,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,13:37:11.000000,N/A,369493,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-044,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,13:37:11.000000,N/A,369493,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-044,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,13:37:11.000000,N/A,369493,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-044,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,13:37:11.000000,N/A,369493,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-044,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,13:37:11.000000,N/A,369493,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-044,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,13:37:11.000000,N/A,369493,ORIGINAL\PRIMARY\OTHER,116,"[0.7031, 0.7031, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-044,900,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7031, 0.7031, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-044,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7031, 0.7031, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-045,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.1]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-045,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.6641, 0.6641, 2.1]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-045,9,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.6641, 0.6641, 2.1]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-045,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,14:12:19.000000,N/A,373221,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.1]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-045,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,14:12:19.000000,N/A,373221,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.1]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-045,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,14:12:19.000000,N/A,373221,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.1]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-045,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,14:12:19.000000,N/A,373221,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.1]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-045,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,14:12:19.000000,N/A,373221,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.1]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-045,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,14:12:19.000000,N/A,373221,ORIGINAL\PRIMARY\OTHER,116,"[0.6641, 0.6641, 2.1]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-045,900,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.1]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-045,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.6641, 0.6641, 2.1]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-046,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-046,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.7422, 0.7422, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-046,10,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-046,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,14:48:20.000000,N/A,366341,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-046,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,14:48:20.000000,N/A,366341,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-046,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,14:48:20.000000,N/A,366341,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-046,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,14:48:20.000000,N/A,366341,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-046,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,14:48:20.000000,N/A,366341,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-046,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,14:48:20.000000,N/A,366341,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-046,1000,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-046,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-047,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-047,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.7422, 0.7422, 2.0]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-047,10,AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-047,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,15:28:21.000000,N/A,366299,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-047,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,15:28:21.000000,N/A,366299,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-047,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,15:28:21.000000,N/A,366299,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-047,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,15:28:21.000000,N/A,366299,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-047,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,15:28:21.000000,N/A,366299,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-047,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,15:28:21.000000,N/A,366299,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.0]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-047,1000,Registered AX Sen Vibrant+f +C,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,AUXILIARY_SINGLE_PHASE (Excluded: redundant single-phase acquisition; MultiPhase contains full dynamic series)
+AMBL-047,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.0]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)
+AMBL-049,3,AX Sen Vibrant MASK,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.1]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-049,5,AX Sen Vibrant MultiPhase,N/A,N/A,N/A,N/A,ORIGINAL,580,"[0.7422, 0.7422, 2.1]",False,N/A,UNREGISTERED_DUPLICATE_SERIES (Excluded: unregistered raw multi-phase acquisition)
+AMBL-049,9,AX Sen Vibrant MASK+F,N/A,N/A,N/A,N/A,ORIGINAL,116,"[0.7422, 0.7422, 2.1]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-049,500,Registered AX Sen Vibrant MultiPhase,4D_MultiPhase,13:26:33.000000,N/A,364459,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.1]",False,N/A,PARENT_4D_DCE_SERIES (5 timepoints: P0 baseline + P1..P4 post-contrast)
+AMBL-049,500,Registered AX Sen Vibrant MultiPhase [Frame 0],P0,13:26:33.000000,N/A,364459,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.1]",False,Pre-contrast_Baseline,PRE_CONTRAST_BASELINE (P0)
+AMBL-049,500,Registered AX Sen Vibrant MultiPhase [Frame 1],P1,13:26:33.000000,N/A,364459,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.1]",True,Candidate_1,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-049,500,Registered AX Sen Vibrant MultiPhase [Frame 2],P2,13:26:33.000000,N/A,364459,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.1]",True,Candidate_2,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-049,500,Registered AX Sen Vibrant MultiPhase [Frame 3],P3,13:26:33.000000,N/A,364459,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.1]",True,Candidate_3,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-049,500,Registered AX Sen Vibrant MultiPhase [Frame 4],P4,13:26:33.000000,N/A,364459,ORIGINAL\PRIMARY\OTHER,116,"[0.7422, 0.7422, 2.1]",True,Candidate_4,ORIGINAL_POST_CONTRAST_FRAME
+AMBL-049,900,Registered AX Sen Vibrant MASK+F,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.1]",False,N/A,PRE_CONTRAST_MASK_ACQUISITION (Excluded: unenhanced pre-contrast mask)
+AMBL-049,5000,TRAM,N/A,N/A,N/A,N/A,DERIVED,116,"[0.7422, 0.7422, 2.1]",False,N/A,DERIVED_SUBTRACTION_OR_MAP (Excluded: TRAM delayed clearance computed series)

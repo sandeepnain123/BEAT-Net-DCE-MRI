@@ -1,0 +1,113 @@
+{
+  "run": "corrected_evaluation_20261027",
+  "historical_training_membership": "UNKNOWN",
+  "data_root": "./data/MAMA-MIA",
+  "cache_root": "./data/preprocessed_mmap",
+  "targets": [
+    {
+      "name": "random_init_seed0",
+      "seed": 0,
+      "exp": "3.2_random_init",
+      "path": "./results/ablation_section3/3.2_random_init_seed0/final_model.pt"
+    },
+    {
+      "name": "random_init_seed1",
+      "seed": 1,
+      "exp": "3.2_random_init",
+      "path": "./results/ablation_section3/3.2_random_init_seed1/final_model.pt"
+    },
+    {
+      "name": "reference_seed0",
+      "seed": 0,
+      "exp": "3.0_ref",
+      "path": "./results/ablation_section3/3.0_ref_seed0/final_model.pt"
+    },
+    {
+      "name": "reference_seed1",
+      "seed": 1,
+      "exp": "3.0_ref",
+      "path": "./results/ablation_section3/3.0_ref_seed1/final_model.pt"
+    }
+  ],
+  "preprocessing": {
+    "orientation": "RAS",
+    "spacing": [
+      0.8,
+      0.8,
+      1.0
+    ],
+    "phases": [
+      0,
+      1,
+      2
+    ],
+    "nonzero_zscore": true,
+    "foreground_crop": false,
+    "minimum_pad": [
+      128,
+      128,
+      64
+    ],
+    "channels": [
+      "I0",
+      "I1",
+      "I2",
+      "I1-I0",
+      "I2-I0"
+    ],
+    "cache_dtype": "float16",
+    "validation": "all-case shape/finite/label/channel-algebra/hash checks; raw reconstruction on predetermined four IDs",
+    "raw_reconstruction_ids": [
+      "DUKE_019",
+      "ISPY1_1005",
+      "ISPY2_105513",
+      "NACT_02"
+    ],
+    "raw_float16_ulp_allowance": 1,
+    "raw_absolute_roundoff": 1e-06,
+    "raw_check_amendment": "Pre-inference diagnostic 174033: exact labels/shapes, thread-dependent differences bounded by one float16 step plus 1e-6. Existing cache/model/inference/threshold unchanged."
+  },
+  "inference": {
+    "patch": [
+      128,
+      128,
+      64
+    ],
+    "overlap": 0.5,
+    "window_batch": 8,
+    "blend": "constant",
+    "precision": "bfloat16 AMP",
+    "input_dtype": "float32",
+    "threshold": 0.5,
+    "decision": "torch.sigmoid(blended_logits.float()) >= 0.5",
+    "postprocessing": "none",
+    "ensemble": false
+  },
+  "metrics": {
+    "spacing": [
+      0.8,
+      0.8,
+      1.0
+    ],
+    "units": "Dice/IoU/precision/recall percent; HD95/ASSD mm",
+    "surface_empty_policy": "both masks empty: 0 mm; exactly one empty: NaN, report count",
+    "scalar_empty_policy": "both masks empty: Dice=IoU=100%; exactly one empty: Dice=IoU=0%"
+  },
+  "statistics": {
+    "bootstrap_iterations": 10000,
+    "seed": 42,
+    "confidence": 0.95,
+    "sd_ddof": 1,
+    "comparison": "random_init minus reference within seed",
+    "test": "two-sided paired Wilcoxon",
+    "holm_family": "four requested metrics times two seeds = 8 tests; exploratory conditional comparisons"
+  },
+  "protocol": {
+    "test_driven_tuning": false,
+    "preflight_data_validation_only": true,
+    "checkpoint_selection": "fixed verified epoch 500, no selection by corrected scores",
+    "training": false,
+    "inference_after_preflight_only": true,
+    "claims": "No leakage-free evaluation or architectural-superiority claim"
+  }
+}
